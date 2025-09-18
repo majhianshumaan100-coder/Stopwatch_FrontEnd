@@ -20,28 +20,28 @@ This project demonstrates how to build a functional stopwatch with start, pause,
 ## 📂 Project Structure
 
 Stopwatch_FrontEnd/
-│── index.html # Main HTML file
-│── style.css # Styling (UI design)
-│── script.js # Stopwatch logic (start, stop, reset)
-│── README.md # Documentation
+│── index.html # Main HTML file   
+│── style.css # Styling (UI design)   
+│── script.js # Stopwatch logic (start, stop, reset)  
+│── README.md # Documentation   
 
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – for structure  
-- **CSS3** – for styling and layout  
-- **JavaScript (Vanilla JS)** – for stopwatch functionality  
+- **HTML5** – for structure     
+- **CSS3** – for styling and layout     
+- **JavaScript (Vanilla JS)** – for stopwatch functionality     
 
 ---
 
 ## 📖 How It Works
 
-1. When you click the **Start** button, JavaScript begins updating the timer at set intervals.  
-2. The **Pause** button stops the interval without resetting the time.  
-3. The **Reset** button clears the interval and sets the time back to `00:00:00`.  
-4. The UI updates dynamically with every tick.  
+1. When you click the **Start** button, JavaScript begins updating the timer at set intervals.    
+2. The **Pause** button stops the interval without resetting the time.    
+3. The **Reset** button clears the interval and sets the time back to `00:00:00`.    
+4. The UI updates dynamically with every tick.    
 
 ---
 
